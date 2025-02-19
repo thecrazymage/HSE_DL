@@ -24,8 +24,6 @@ $$S = \text{round}\left(\sum_{i=1}^{4} 0.25 \cdot HW_i\right).$$
 
 ## Домашние задания
 
-Ссылка на Anytask, куда сдавать домашки: TODO.
-
 <big><pre>
     1.  [Домашнее задание 1](./hometasks/hometask_1.ipynb)
 </pre></big>
