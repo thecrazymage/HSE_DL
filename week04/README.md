@@ -1,0 +1,4 @@
+# Сверточные нейросети
+
+Источник материала лекции: [тык](https://github.com/hdrbv/deep_learning_hse/tree/main/2024-spring/week_4).
+Истояник материала семинара: [тык](https://github.com/isadrtdinov/intro-to-dl-hse/blob/2023-2024/seminars/212/03/Seminar_3_Intro_to_DL.ipynb)
