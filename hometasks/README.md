@@ -12,6 +12,7 @@
 
 Ссылка на соревнование: [тык](https://www.kaggle.com/t/b801ab030059413e8961b10dd86b4822).
 
+Выборку подготовил [Maxim Kurkin](https://scholar.google.com/citations?user=dAMVIA8AAAAJ&hl=en) для курса ML3 AI Masters.
 
 ## Домашнее задание 1
 
