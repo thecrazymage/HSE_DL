@@ -16,7 +16,7 @@ $$S = \text{round}\left(\frac{1}{3}\sum_{i=1}^{3}HW_i\right).$$
     4.  [Сверточные нейросети](./week04)
     5.  [Применение сверточных нейросетей](./week05)
     6.  [Обработка естественного языка: эмбеддинги](./week06)
-    7.  Обработка естественного языка: RNN, LSTM, Seq2seq
+    7.  [Обработка естественного языка: классификация, языковые модели](./week07)
     8.  Обработка естественного языка: Attention, Transformer
     9.  Трансформеры (I): GPT-n, BERT, BART, T5, etc
     10. Трансформеры (II): CLIP, DALL-E, DDPM, etc
@@ -27,6 +27,7 @@ $$S = \text{round}\left(\frac{1}{3}\sum_{i=1}^{3}HW_i\right).$$
 <big><pre>
     1.  [Домашнее задание 1](./hometasks/hometask_1.ipynb)
     2.  [Домашнее задание 2](./hometasks/hometask_2_baselines.ipynb)
+    2.  [Домашнее задание 3](./hometasks/)
 </pre></big>
 
 ## Дополнительные материалы
@@ -42,3 +43,4 @@ $$S = \text{round}\left(\frac{1}{3}\sum_{i=1}^{3}HW_i\right).$$
 - [Курс нейронок, который читают в ШАД, ВШЭ и Сколтехе.](https://github.com/yandexdataschool/Practical_DL/tree/master)
 - [Deep Learning School.](https://www.youtube.com/watch?v=At8_Sc7AQsg&list=PL0Ks75aof3Th84kETSlJq_ja-xqLtWov1)
 - [Deep learning на пальцах.](https://dlcourse.ai)
+- [MIT Deep Learning.](https://introtodeeplearning.com/)
