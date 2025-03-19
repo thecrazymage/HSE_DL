@@ -27,7 +27,7 @@ $$S = \text{round}\left(\frac{1}{3}\sum_{i=1}^{3}HW_i\right).$$
 <big><pre>
     1.  [Домашнее задание 1](./hometasks/hometask_1.ipynb)
     2.  [Домашнее задание 2](./hometasks/hometask_2_baselines.ipynb)
-    2.  [Домашнее задание 3](./hometasks/)
+    2.  [Домашнее задание 3](./hometasks/hometask_3.ipynb)
 </pre></big>
 
 ## Дополнительные материалы

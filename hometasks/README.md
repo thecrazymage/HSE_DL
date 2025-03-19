@@ -2,6 +2,16 @@
 
 Ссылка на Anytask, куда сдавать домашки: [```ссылка```](https://anytask.org/course/1180). Код-приглашение в группу: ```hWnEiMX```.
 
+## Домашнее задание 3
+
+Дата выдачи: <span style="color:red">__20 марта__</span>.
+
+Дедлайн: <span style="color:red">__3 апреля 23:59__</span>.
+
+Стоимость: __3 балла__ (основная часть заданий) + __2.2 балла__ (бонус) — отнормируем в 10 бальную систему при выставлении в Anytask.
+
+Источник материала: [тык](https://github.com/hse-ds/iad-deep-learning/blob/master/2023/homeworks/hw4_texts.ipynb).
+
 ## Домашнее задание 2
 
 Дата выдачи: <span style="color:red">__6 марта__</span>.
