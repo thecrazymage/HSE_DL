@@ -1,4 +1,4 @@
-# Трансформеры (I): GPT-n, BERT, BART, T5, etc
+# Трансформеры: GPT-n, BERT, BART, T5, etc
 
 Источник материалов для лекции: [тык](https://github.com/hdrbv/deep_learning_hse/blob/main/2024-spring/week_9/9_transformers_p_I.pdf) и [тык](https://github.com/hdrbv/deep_learning_hse/blob/main/2024-spring/week_10/10_transformers_p_II.pdf). 
 
